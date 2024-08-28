@@ -1,0 +1,1 @@
+const secretCode = ["a", "b", "a", "c", "a", "b", "b"];
